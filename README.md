@@ -21,7 +21,7 @@
 ```
 ## Last Update 
 ```print
-• add alldown function thumbnail
+• add alldown function "thumbnail url"
 ```
 
 ## Example (fb & insta)
