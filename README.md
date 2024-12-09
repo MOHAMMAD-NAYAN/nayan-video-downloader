@@ -21,9 +21,7 @@
 ```
 ## Last Update 
 ```print
-• pintarest (fix)
-• capcut (fix)
-• ytdown (fix)
+• add alldown function thumbnail
 ```
 
 ## Example (fb & insta)
@@ -267,6 +265,7 @@ const url = 'url' // past url
     "status": true,
     "media": {
         "title": "video title",
+        "thumbnail": "thumbnail link",
         "low": "normal video link",
         "high": "hd video link"
     }
